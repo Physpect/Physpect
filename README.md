@@ -1,4 +1,4 @@
-[![MasterHead]([https://tr.pinterest.com/pin/34902965857111323/](https://i.pinimg.com/564x/7e/05/8d/7e058d01d8ee1303f1eeb7d92a7b3c0c.jpg))
+[![MasterHead](https://i.pinimg.com/564x/3c/16/ae/3c16aec2e1c6e8d4c88e8976242d18f9.jpg)
 
 <h1 align="center">Hi 👋, I'm Ataberk KÖŞGER</h1>
 <h3 align="center">A computer engineering student in Turkey</h3>
